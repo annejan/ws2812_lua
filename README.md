@@ -1,5 +1,5 @@
-# WS2812 LUA
-LUA script on modified nodemcu firmware
+# WS2812 Lua
+Lua script on modified nodemcu firmware
 
 Firmware from http://www.esp8266.com/viewtopic.php?p=6523
 
